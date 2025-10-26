@@ -45,10 +45,32 @@ body {
 
 }
 
+.navbar ul li {
+    position: relative;
+    padding: 2px 0;
+}
+
+.navbar ul li::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 0;
+    bottom: 0;
+    height: 2px;
+    background-color: #fff;
+    transition: width 0.5s ease;
+
+}
+
+.navbar ul li:hover::after {
+    width: 90%;
+}
+
+
 .navbar ul li a {
     color: #fff;
-    margin: 0 19px;
-    padding: 0 19px;
+    margin: 0 25px;
+    padding: 0;
 
 }
 
@@ -67,22 +89,48 @@ body {
     margin-top: 17px;
 }
 
-.caixa {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.img1 {
     position: absolute;
     top: 60vh;
-    z-index: 99;
+    margin-left: 110px;
 }
 
-.caixa img {
+.img1 img {
     width: 300px;
-    height: 190px;
-    margin-left: 30px;
-    
+    height: 200px;
 }
 
-.caixa p {
-    margin-top: 140px;
+.img1 p {
+    font-size: 15px;
 }
+
+.img2 {
+    position: absolute;
+    top: 60vh;
+    margin-left: 500px;
+}
+
+.img2 img {
+    width: 300px;
+    height: 200px;
+}
+
+.img2 p {
+    font-size: 15px;
+}
+
+.img3 {
+    position: absolute;
+    top: 60vh;
+    margin-left: 890px;
+}
+
+.img3 img {
+    width: 300px;
+    height: 200px;
+}
+
+.img3 p {
+    font-size: 15px;
+}
+
