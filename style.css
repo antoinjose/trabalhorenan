@@ -134,3 +134,111 @@ body {
     font-size: 15px;
 }
 
+.destinos {
+    margin-top: 24%;
+    position: relative;
+}
+
+.destinos h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 50px;
+    color: rgb(5, 4, 68);
+}
+
+.destinos span {
+    color: #0fb3cf;
+}
+
+.des1 {
+    margin-left: 100px;
+    border: 1px solid #797878;
+    padding: 30px 60px;
+    margin-right: 750px;
+    border-radius: 30px;
+}
+
+.des1 img {
+    width: 400px;
+    height: 300px;
+    border-radius: 3px;
+}
+
+.des1 p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.des1 a {
+    border: 1px solid #797878;
+    background-color: rgb(3, 177, 177);
+    color: #fff;
+    padding: 7px 12px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.des2 {
+    margin-left: 650px;
+    border: 1px solid #797878;
+    padding: 30px 60px;
+    margin-right: 100px;
+    border-radius: 30px;
+    position: absolute;
+    top: 93px;
+    right: 0;
+}
+
+.des2 img {
+    width: 400px;
+    height: 300px;
+    border-radius: 3px;
+}
+
+.des2 p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.des2 a {
+    border: 1px solid #797878;
+    background-color: rgb(3, 177, 177);
+    color: #fff;
+    padding: 7px 12px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.des3 {
+    margin-left: 650px;
+    border: 1px solid #797878;
+    padding: 30px 60px;
+    margin-right: 180px;
+    border-radius: 30px;
+}
+
+.des3 img {
+    width: 400px;
+    height: 300px;
+    border-radius: 3px;
+}
+
+.des3 p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.des3 a {
+    border: 1px solid #797878;
+    background-color: rgb(3, 177, 177);
+    color: #fff;
+    padding: 7px 12px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+
