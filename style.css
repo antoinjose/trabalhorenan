@@ -123,6 +123,7 @@ body {
     position: absolute;
     top: 60vh;
     margin-left: 890px;
+    margin-right: 110px;
 }
 
 .img3 img {
@@ -154,7 +155,7 @@ body {
 .des1 {
     margin-left: 100px;
     border: 1px solid #797878;
-    padding: 30px 60px;
+    padding: 30px 50px;
     margin-right: 750px;
     border-radius: 30px;
 }
@@ -213,11 +214,12 @@ body {
 }
 
 .des3 {
-    margin-left: 650px;
+    margin-left: 100px;
     border: 1px solid #797878;
-    padding: 30px 60px;
-    margin-right: 180px;
+    padding: 30px 50px;
+    margin-right: 750px;
     border-radius: 30px;
+    margin-top: 50px;
 }
 
 .des3 img {
