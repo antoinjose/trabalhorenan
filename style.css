@@ -276,9 +276,57 @@ body {
     margin-top: 10px;
 }
 
-#cor {
-    background-color: midnightblue;
-    width: 100%;
-    height: 500px;
+.sobre-nós {
+    background-color: rgb(5, 4, 68);
+    margin-top: 120px;
+    padding: 4rem 0;
+     box-shadow: 10px -10px 15px rgba(0, 0, 0, 0.4);
+     border-radius: 10px;
 }
+
+.sobre-nós h2 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.sobre-nós p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 26px;
+    margin-left: 30px;
+}
+
+.sobre-nós span {
+    color: rgb(255, 196, 0);
+}
+
+.rodapé {
+    width: 100%;
+    background-color: #504f4f;
+    margin-top: 190px;
+    color: #fff;
+    padding: 30px;
+}
+
+.rodapé span {
+    font-weight: 400;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+.content h3 {
+    margin-right: 40px;
+}
+
+.content p {
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 2px;
+}
+
 
