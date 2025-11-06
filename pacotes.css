@@ -20,9 +20,12 @@ body h2 {
 
 .pacs1 {
     border: 1px solid #fff;
-    margin-right: 1124px;
+    margin-right: 1054px;
     border-radius: 5px;
     background-color: #fff;
+    margin-left: 70px;
+    margin-top: 60px;
+    padding-bottom: 9px;
 }
 
 .pacs1 img {
@@ -30,9 +33,37 @@ body h2 {
     height: 210px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-
- 
 }
 
+.laranja {
+    border: 1px solid orange;
+    background-color: orange;
+    color: #fff;
+    padding: 0px;
+    margin-right: 181px;
+    border-radius: 20px;
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+.nome {
+    margin-left: 5px;
+    font-size: 19px;
+    color: rgb(54, 52, 52);
+}
+
+.cidade {
+    margin-left: 15px;
+}
+
+.partir {
+    margin-top: 25px;
+}
+
+.preço {
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(54, 52, 52);
+}
 
 
