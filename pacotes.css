@@ -20,10 +20,10 @@ body h2 {
 
 .pacs1 {
     border: 1px solid #fff;
-    margin-right: 1054px;
+    margin-right: 100px;
     border-radius: 5px;
     background-color: #fff;
-    margin-left: 70px;
+    margin-left: 400px;
     margin-top: 60px;
     padding-bottom: 9px;
 }
@@ -64,6 +64,99 @@ body h2 {
     font-size: 30px;
     font-weight: 700;
     color: rgb(54, 52, 52);
+    position: relative;
 }
+
+.pacs1 a {
+    margin-left: 155px;
+    border: 2px solid #1fe405;
+    text-decoration: none;
+    color: #fff;
+    background-color: #1fe405;
+    padding: 6px;
+    border-radius: 4px;
+    font-weight: 600;
+    position: absolute;
+    top: 472px;
+}
+
+.juros {
+    text-align: center;
+    color: #00A8FF;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.pacs2 {
+    border: 1px solid #fff;
+    margin-right: 509px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 600px;
+    margin-top: 60px;
+    padding-bottom: 9px;
+}
+
+.pacs2 img {
+    width: 240px;
+    height: 210px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.laranja {
+    border: 1px solid orange;
+    background-color: orange;
+    color: #fff;
+    padding: 0px;
+    margin-right: 181px;
+    border-radius: 20px;
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+.nome {
+    margin-left: 5px;
+    font-size: 19px;
+    color: rgb(54, 52, 52);
+}
+
+.cidade {
+    margin-left: 15px;
+}
+
+.partir {
+    margin-top: 25px;
+}
+
+.preço {
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(54, 52, 52);
+    position: relative;
+}
+
+.pacs1 a {
+    margin-left: 155px;
+    border: 2px solid #1fe405;
+    text-decoration: none;
+    color: #fff;
+    background-color: #1fe405;
+    padding: 6px;
+    border-radius: 4px;
+    font-weight: 600;
+    position: absolute;
+    top: 472px;
+}
+
+.juros {
+    text-align: center;
+    color: #00A8FF;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 600;
+}
+
 
 
