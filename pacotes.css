@@ -316,8 +316,9 @@ body h2 {
 .voltar {
     text-decoration: none;
     color: #fff;
-    margin-left: 600px;
-
+    margin-left: 617px;
+    position: absolute;
+    top: 600px;
 }
 
 
