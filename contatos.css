@@ -21,9 +21,16 @@ body {
 }
 
 .números {
-    position: absolute;
-    top: 250px;
+    text-align: center;
+    margin-top: 90px;
     margin-left: 25px;
     color: #fff;
 }
 
+a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 640px;
+    position: absolute;
+    top: 450px;
+}
